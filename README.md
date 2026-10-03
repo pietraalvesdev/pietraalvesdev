@@ -1,68 +1,63 @@
-<!--
-╔══════════════════════════════════════════════════════════╗
-║             PIETRA ALVES // SYSTEM PROFILE                ║
-║                    github.com/pietraalvesdev              ║
-╚══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F33,100:00E5FF&height=220&section=header&text=PIETRA%20ALVES&fontSize=48&fontColor=EAFBFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20FRONT-END%20ENTHUSIAST&descSize=13&descAlignY=58&animation=fadeIn" alt="Banner futurista Pietra Alves"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080610,50:35102D,100:FF4FA3&height=220&section=header&text=PIETRA%20ALVES&fontSize=48&fontColor=FFEAF5&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20FRONT-END%20FOCUS&descSize=13&descAlignY=58&animation=fadeIn" alt="Pietra Alves Pink Cyberpunk"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=%3E+Inicializando+ambiente+de+desenvolvimento...;%3E+Estudante+de+Desenvolvimento+de+Sistemas;%3E+Full+Stack+Developer+%7C+Front-end+enthusiast;%3E+Transformando+ideias+em+experi%C3%AAncias+digitais." alt="Animação de texto"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=800&color=FF80BF&center=true&vCenter=true&width=650&height=55&lines=%3E+Inicializando+sistema...;%3E+Identidade+confirmada%3A+Pietra+Alves;%3E+Desenvolvimento+de+Sistemas+%7C+ETEC;%3E+Full+Stack+%7C+Front-end+enthusiast;%3E+Transformando+ideias+em+experiencias+digitais." alt="Pink typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" alt="Sistema online"/>
-<img src="https://img.shields.io/badge/FOCUS-FRONT--END-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Foco em front-end"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em aprendizado"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF4FA3?style=for-the-badge&logo=probot&logoColor=white" alt="System online"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONT--END-B967FF?style=for-the-badge&logo=css3&logoColor=white" alt="Front-end"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-19101F?style=for-the-badge&logo=github&logoColor=FF80BF" alt="Learning"/>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-pietraalvesdev-111827?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/pietraalvesdev)
-![Profile Views](https://komarev.com/ghpvc/?username=pietraalvesdev&style=flat-square&color=00E5FF&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-pietraalvesdev-080610?style=flat-square&logo=github&logoColor=FF4FA3)](https://github.com/pietraalvesdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pietra%20Alves-9B59B6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietra-alves-95532935b)
+[![Email](https://img.shields.io/badge/Email-Contato-FF4FA3?style=flat-square&logo=gmail&logoColor=white)](mailto:eupietratta@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pietraalvesdev&style=flat-square&color=FF4FA3&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## `01 // SOBRE MIM`
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/IDENTITY-VERIFIED-FF4FA3?style=flat-square&labelColor=19101F" alt="Identity verified"/>
+</div>
 
-```js
-const pietra = {
-  name: "Pietra Alves",
-  username: "pietraalvesdev",
-  role: "Full Stack Developer",
-  currently: "Systems Development Student",
+<img align="right" width="145" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programação"/>
 
-  languages: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Python",
-    "PHP (learning)"
-  ],
+Olá! Eu sou a **Pietra Alves**. 🩷
 
-  specialization: "Front-end Development",
-  mindset: "Learn. Build. Improve. Repeat.",
-  mission: "Turning ideas into digital experiences."
-};
-```
+Sou estudante de **Desenvolvimento de Sistemas na Etec Bento Carlos Botelho do Amaral**, apaixonada por tecnologia, programação e interfaces modernas.
 
-Sou estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia, programação e criação de experiências digitais.
+Minha jornada envolve o desenvolvimento **Full Stack**, com preferência especial pelo Front-end. Gosto de transformar ideias em experiências digitais funcionais, intuitivas e visualmente interessantes.
 
-Atuo no universo **Full Stack**, com uma preferência especial pelo Front-end: gosto de transformar ideias em interfaces modernas, intuitivas e visualmente marcantes.
-
-Atualmente, estou desenvolvendo minhas habilidades com HTML, CSS, JavaScript e Python, além de aprender PHP durante o curso.
-
-- 🎨 Explorando interfaces modernas e responsivas.
-- 💻 Desenvolvendo projetos para colocar conhecimentos em prática.
-- ⚡ Estudando novas tecnologias e boas práticas.
-- 🚀 Construindo minha jornada no desenvolvimento de software.
+- 🎀 Foco em interfaces modernas e responsivas.
+- 💻 Praticando HTML, CSS, JavaScript e Python.
+- ⚙️ Aprendendo PHP no curso técnico.
+- 🗄️ Explorando Node.js e bancos de dados.
+- 🚀 Construindo meu portfólio, um projeto de cada vez.
 
 <br clear="right"/>
+
+```javascript
+const pietra = {
+  nome: "Pietra Alves",
+  usuario: "pietraalvesdev",
+  formacao: "Desenvolvimento de Sistemas - Etec",
+  perfil: "Full Stack",
+  foco: "Front-end",
+  tecnologias: ["HTML", "CSS", "JavaScript", "Python"],
+  aprendendo: ["PHP", "Node.js", "React", "MySQL"],
+  objetivo: "Transformar ideias em projetos reais"
+};
+
+console.log("Pink system initialized. Welcome!");
+```
 
 ---
 
@@ -70,147 +65,91 @@ Atualmente, estou desenvolvendo minhas habilidades com HTML, CSS, JavaScript e P
 
 <div align="center">
 
-### FRONT-END
+### ♡ FRONT-END
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 
-### BACK-END & PROGRAMMING
+### ♡ PROGRAMAÇÃO & BACK-END
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/></a>
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="55" alt="PHP"/></a>
+<img src="https://skillicons.dev/icons?i=python,php,nodejs&theme=dark" alt="Python PHP Node.js"/>
 
-### TOOLS & ENVIRONMENT
+### ♡ FERRAMENTAS & BANCO DE DADOS
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/></a>
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/></a>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql&theme=dark" alt="VS Code Git GitHub MySQL"/>
 
 </div>
 
-> **Current learning:** PHP · lógica de programação · desenvolvimento web · boas práticas de código.
+> **Em aprendizado:** PHP, Node.js, React e MySQL fazem parte da minha trilha de estudos e evolução como desenvolvedora.
 
 ---
 
-## `03 // DEVELOPMENT ENVIRONMENT`
+## `03 // AMBIENTE DE DESENVOLVIMENTO`
 
 <div align="center">
 
-| FERRAMENTA | UTILIZAÇÃO |
+| FERRAMENTA | FINALIDADE |
 |:---|:---|
-| `VS Code` | Ambiente de desenvolvimento |
-| `Git & GitHub` | Versionamento e portfólio |
-| `HTML & CSS` | Estrutura e estilização de interfaces |
-| `JavaScript` | Interatividade e lógica no Front-end |
-| `Python` | Programação e resolução de problemas |
-| `PHP` | Aprendizado de desenvolvimento Back-end |
-| `Figma` | Exploração de design e interfaces |
+| `Visual Studio Code` | Escrever e organizar código |
+| `Git` | Versionamento de projetos |
+| `GitHub` | Hospedagem de código e portfólio |
+| `Node.js` | Explorar JavaScript no Back-end |
+| `MySQL` | Estudar bancos de dados relacionais |
+| `PHP` | Aprender desenvolvimento Back-end |
 
 </div>
 
 ---
 
-## `04 // FEATURED PROJECTS`
+## `04 // PROJECT UNIVERSE`
 
 <div align="center">
 
-<a href="https://github.com/pietraalvesdev?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pietraalvesdev&repo=SEU_PROJETO_1&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=EAFBFF" alt="Projeto em destaque 1"/>
-</a>
-<a href="https://github.com/pietraalvesdev?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pietraalvesdev&repo=SEU_PROJETO_2&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=EAFBFF" alt="Projeto em destaque 2"/>
-</a>
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORER-FF4FA3?style=for-the-badge&logo=github&logoColor=white" alt="Project explorer"/>
+
+### ✧ Meu laboratório de desenvolvimento ✧
+
+Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
+
+[![Explorar repositórios](https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-FF4FA3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietraalvesdev?tab=repositories)
 
 </div>
 
-### ◈ Project showcase
+### `PROJECT DIRECTORY`
 
-<table>
-<tr>
-<td width="50%">
+| ÁREA | DESCRIÇÃO |
+|:---|:---|
+| `01 / Front-end` | Interfaces, layouts e experiências web |
+| `02 / JavaScript` | Interatividade e lógica de programação |
+| `03 / Python` | Estudos e projetos de programação |
+| `04 / Full Stack` | Aplicações web e desenvolvimento Back-end |
 
-### ✦ Interface Lab
-
-**Categoria:** Front-end
-
-Experimentos com interfaces modernas, layouts responsivos e componentes visuais.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### ✦ Logic Core
-
-**Categoria:** Programming
-
-Projetos para praticar lógica, algoritmos e resolução de problemas.
-
-`Python` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✦ Web Systems
-
-**Categoria:** Full Stack
-
-Estudos de aplicações web e integração entre interfaces e funcionalidades Back-end.
-
-`HTML` `CSS` `PHP`
-
-</td>
-<td width="50%">
-
-### ✦ Creative Experiments
-
-**Categoria:** UI / UX
-
-Exploração de conceitos visuais, efeitos, animações e experiências digitais.
-
-`CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[⌘ EXPLORAR TODOS OS PROJETOS](https://github.com/pietraalvesdev?tab=repositories)**
-
-</div>
-
-> Os cards acima são conceitos de apresentação, não projetos publicados confirmados. Substitua-os pelos seus repositórios reais para exibir trabalhos existentes.
+*Veja meus repositórios para conhecer os projetos que realmente publiquei.*
 
 ---
 
-## `05 // CURRENT OBJECTIVES`
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:10243A&height=3" alt="Divisor ciano"/>
-
-</div>
+## `05 // CURRENT MISSIONS`
 
 ```bash
-┌──[ PIETRA@DEV-STATION ]──[ ~/objectives ]
-│
-├─ $ cat current_mission.txt
-│
-├─ [IN PROGRESS] Aprimorar HTML semântico e CSS
-├─ [IN PROGRESS] Desenvolver interfaces responsivas
-├─ [IN PROGRESS] Evoluir em JavaScript
-├─ [IN PROGRESS] Praticar Python e lógica de programação
-├─ [LEARNING]    Aprender PHP no curso
-├─ [EXPLORING]   Boas práticas de Git e GitHub
-│
-├─ $ echo "Every project is a new level."
-│
-└──> MISSION: BUILD SOMETHING EXTRAORDINARY_
+┌───────────────────────────────────────────────────┐
+│  PIETRA@PINK-STATION : ~/current-missions        │
+└───────────────────────────────────────────────────┘
+
+$ system.status
+[ONLINE] Ambiente de aprendizagem ativo.
+
+$ mission.list
+[01] [IN PROGRESS] Aprimorar HTML, CSS e JavaScript
+[02] [IN PROGRESS] Criar projetos para o portfólio
+[03] [LEARNING]    Aprender PHP
+[04] [EXPLORING]   Aprofundar Back-end
+[05] [EXPLORING]   Aprender React
+
+$ mission.objective
+Evoluir continuamente como desenvolvedora Full Stack.
+
+$ echo "DREAM. DESIGN. DEVELOP."
+
+> Pink mode activated_
 ```
 
 ---
@@ -219,62 +158,71 @@ Exploração de conceitos visuais, efeitos, animações e experiências digitais
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pietraalvesdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=EAFBFF&ring_color=00E5FF&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietraalvesdev&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=EAFBFF&langs_count=8" alt="Linguagens mais utilizadas"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pietraalvesdev&show_icons=true&hide_border=true&bg_color=080610&title_color=FF4FA3&icon_color=B967FF&text_color=FFEAF5&ring_color=FF80BF&include_all_commits=true&locale=pt-br" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietraalvesdev&layout=compact&hide_border=true&bg_color=080610&title_color=FF4FA3&text_color=FFEAF5&langs_count=8&locale=pt-br" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=pietraalvesdev&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF&sideLabels=EAFBFF&dates=7B8CA5" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pietraalvesdev&bg_color=050816&color=00E5FF&line=8A2BE2&point=00E5FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade do GitHub"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=pietraalvesdev&theme=dark&hide_border=true&background=080610&ring=FF4FA3&fire=B967FF&currStreakLabel=FF80BF&sideLabels=FFEAF5&dates=C6A9C4" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## `07 // GITHUB TROPHIES`
+## `07 // ACTIVITY MONITOR`
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=pietraalvesdev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pietraalvesdev&bg_color=080610&color=FF80BF&line=FF4FA3&point=B967FF&area=true&hide_border=true&custom_title=PINK%20CYBERPUNK%20ACTIVITY" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION MATRIX`
+## `08 // ACHIEVEMENTS`
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=pietraalvesdev&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## `09 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo as contribuições"/>
+  <img width="100%" src="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </picture>
 
 </div>
 
 ---
 
-## `09 // CONNECT WITH ME`
+## `10 // CONNECT WITH ME`
 
 <div align="center">
 
 <a href="https://github.com/pietraalvesdev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-FOLLOW-19101F?style=for-the-badge&logo=github&logoColor=FF4FA3" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/pietra-alves-95532935b">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:eupietratta@gmail.com">
+  <img src="https://img.shields.io/badge/Email-SAY%20HELLO-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-*“Code is not just instructions. It's the architecture of an idea.”*
+### ✧ Vamos transformar ideias em código? ✧
+
+Estou sempre aprendendo, explorando novas tecnologias e construindo meu próximo projeto.
 
 </div>
 
@@ -282,16 +230,14 @@ Exploração de conceitos visuais, efeitos, animações e experiências digitais
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1F33,100:050816&height=120&section=footer" alt="Rodapé futurista"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:35102D,100:080610&height=130&section=footer" alt="Pink Cyberpunk Footer"/>
 
-<sub>DESIGNED & BUILT BY PIETRA ALVES</sub>
+### `SYSTEM MESSAGE: KEEP SHINING`
+
+<sub>Desenvolvido com curiosidade, criatividade e muitas linhas de código. ♡</sub>
 
 <br/>
 
-<sub>© 2026 · LEARN CONSTANTLY · BUILD FEARLESSLY · THINK BEYOND</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/POWERED_BY-CURIOSITY-050816?style=flat-square&labelColor=050816&color=00E5FF" alt="Powered by curiosity"/>
+<sub>PIETRA ALVES · 2026 · DREAM IT. DESIGN IT. CODE IT.</sub>
 
 </div>
