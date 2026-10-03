@@ -154,57 +154,9 @@ $ echo "DREAM. DESIGN. DEVELOP."
 
 ---
 
-## `06 // GITHUB ANALYTICS`
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pietraalvesdev&show_icons=true&hide_border=true&bg_color=080610&title_color=FF4FA3&icon_color=B967FF&text_color=FFEAF5&ring_color=FF80BF&include_all_commits=true&locale=pt-br" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietraalvesdev&layout=compact&hide_border=true&bg_color=080610&title_color=FF4FA3&text_color=FFEAF5&langs_count=8&locale=pt-br" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=pietraalvesdev&theme=dark&hide_border=true&background=080610&ring=FF4FA3&fire=B967FF&currStreakLabel=FF80BF&sideLabels=FFEAF5&dates=C6A9C4" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `07 // ACTIVITY MONITOR`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pietraalvesdev&bg_color=080610&color=FF80BF&line=FF4FA3&point=B967FF&area=true&hide_border=true&custom_title=PINK%20CYBERPUNK%20ACTIVITY" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=pietraalvesdev&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## `09 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</picture>
-
-</div>
-
----
-
-## `10 // CONNECT WITH ME`
+## `06 CONNECT WITH ME`
 
 <div align="center">
 
