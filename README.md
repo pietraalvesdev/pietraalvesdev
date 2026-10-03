@@ -127,7 +127,7 @@ Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
 
 ---
 
-## `05 // CURRENT MISSIONS`
+## `CURRENT MISSIONS`
 
 ```bash
 ┌───────────────────────────────────────────────────┐
@@ -156,7 +156,7 @@ $ echo "DREAM. DESIGN. DEVELOP."
 
 
 
-## `06 CONNECT WITH ME`
+## `CONNECT WITH ME`
 
 <div align="center">
 
