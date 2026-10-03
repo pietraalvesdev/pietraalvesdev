@@ -56,7 +56,7 @@ const pietra = {
   objetivo: "Transformar ideias em projetos reais"
 };
 
-console.log("Pink system initialized. Welcome!");
+console.log("System initialized. Welcome!");
 ```
 
 ---
