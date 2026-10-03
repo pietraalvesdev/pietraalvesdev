@@ -22,7 +22,7 @@
 
 ---
 
-## `01 // SOBRE MIM`
+## `SOBRE MIM`
 
 <div align="center">
   <img src="https://img.shields.io/badge/IDENTITY-VERIFIED-FF4FA3?style=flat-square&labelColor=19101F" alt="Identity verified"/>
@@ -61,7 +61,7 @@ console.log("Pink system initialized. Welcome!");
 
 ---
 
-## `02 // TECH STACK`
+## `TECH STACK`
 
 <div align="center">
 
@@ -83,7 +83,7 @@ console.log("Pink system initialized. Welcome!");
 
 ---
 
-## `03 // AMBIENTE DE DESENVOLVIMENTO`
+## `AMBIENTE DE DESENVOLVIMENTO`
 
 <div align="center">
 
@@ -100,7 +100,7 @@ console.log("Pink system initialized. Welcome!");
 
 ---
 
-## `04 // PROJECT UNIVERSE`
+## `PROJECT UNIVERSE`
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Cada projeto é uma oportunidade de aprender, experimentar e evoluir.
 
 ```bash
 ┌───────────────────────────────────────────────────┐
-│  PIETRA@PINK-STATION : ~/current-missions        │
+│  PIETRA@dev-STATION : ~/current-missions        │
 └───────────────────────────────────────────────────┘
 
 $ system.status
@@ -149,7 +149,7 @@ Evoluir continuamente como desenvolvedora Full Stack.
 
 $ echo "DREAM. DESIGN. DEVELOP."
 
-> Pink mode activated_
+> Dev mode activated_
 ```
 
 ---
