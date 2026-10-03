@@ -1,218 +1,297 @@
 <!--
-  PIETRA ALVES | GITHUB PROFILE README
-  SYSTEM: CYBER INTELLIGENCE INTERFACE
-  THEME: DARK / NEON CYAN / PURPLE
+╔══════════════════════════════════════════════════════════╗
+║             PIETRA ALVES // SYSTEM PROFILE                ║
+║                    github.com/pietraalvesdev              ║
+╚══════════════════════════════════════════════════════════╝
 -->
+
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050816,50:111B3D,100:00F5FF&text=PIETRA%20ALVES&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=FRONT-END%20DEVELOPER%20%7C%20SYSTEMS%20DEVELOPMENT%20STUDENT&descSize=13&descAlignY=58&animation=fadeIn&stroke=00F5FF&strokeWidth=1"
-    width="100%"
-    alt="Pietra Alves — Cyber Intelligence Interface"
-  />
-  <br/>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+PietraOS...;Front-End+Developer+in+Progress;HTML+%7C+CSS+%7C+JavaScript;Transforming+Ideas+into+Interfaces;Building+the+Future%2C+One+Line+at+a+Time."
-    alt="Typing animation"
-  />
-  <br/>
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&logo=probot&logoColor=black" alt="System online"/>
-  <img src="https://img.shields.io/badge/ROLE-FRONT--END-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Front-end developer"/>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00FF9C?style=for-the-badge&logo=githubactions&logoColor=black" alt="Learning"/>
-  <br/><br/>
-  <a href="https://github.com/pietraalvesdev">
-    <img src="https://img.shields.io/badge/GitHub-pietraalvesdev-111827?style=flat-square&logo=github&logoColor=00F5FF" alt="GitHub profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/MADE_WITH-CURIOSITY-111827?style=flat-square&logo=starship&logoColor=00F5FF" alt="Made with curiosity"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F33,100:00E5FF&height=220&section=header&text=PIETRA%20ALVES&fontSize=48&fontColor=EAFBFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20FRONT-END%20ENTHUSIAST&descSize=13&descAlignY=58&animation=fadeIn" alt="Banner futurista Pietra Alves"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=%3E+Inicializando+ambiente+de+desenvolvimento...;%3E+Estudante+de+Desenvolvimento+de+Sistemas;%3E+Full+Stack+Developer+%7C+Front-end+enthusiast;%3E+Transformando+ideias+em+experi%C3%AAncias+digitais." alt="Animação de texto"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" alt="Sistema online"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONT--END-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="Foco em front-end"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em aprendizado"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-pietraalvesdev-111827?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/pietraalvesdev)
+![Profile Views](https://komarev.com/ghpvc/?username=pietraalvesdev&style=flat-square&color=00E5FF&label=PROFILE+VIEWS)
+
 </div>
+
 ---
-## `01` — SYSTEM INITIALIZATION
-```text
-╭──────────────────────────────────────────────────────╮
-│           PIETRAOS // PERSONAL INTERFACE             │
-├──────────────────────────────────────────────────────┤
-│  [ OK ] Identity verification                        │
-│  [ OK ] Front-end development module                 │
-│  [ OK ] HTML / CSS / JavaScript                      │
-│  [ OK ] Learning protocols activated                 │
-│  [ >> ] Loading next-generation interfaces...        │
-╰──────────────────────────────────────────────────────╯
 
-“Code is more than instructions. It’s a way to turn imagination into something real.”
+## `01 // ABOUT ME`
 
-02 — SOBRE MIM
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação"/>
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=pietraalvesdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F5FF" alt="GitHub overview"/>
+```js
+const pietra = {
+  name: "Pietra Alves",
+  username: "pietraalvesdev",
+  role: "Full Stack Developer",
+  currently: "Systems Development Student",
 
-Olá! Eu sou a Pietra Alves, estudante de Desenvolvimento de Sistemas e desenvolvedora Front-end em constante evolução.
+  languages: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "PHP (learning)"
+  ],
 
-Gosto de explorar o universo do desenvolvimento web, criar interfaces intuitivas e transformar ideias em experiências digitais.
+  specialization: "Front-end Development",
+  mindset: "Learn. Build. Improve. Repeat.",
+  mission: "Turning ideas into digital experiences."
+};
+```
 
-* ◈ Foco atual: desenvolvimento Front-end.
-* ◈ Tecnologias principais: HTML, CSS e JavaScript.
-* ◈ Em evolução: lógica de programação e boas práticas.
-* ◈ Interesse especial: interfaces modernas, UI/UX e tecnologia.
-* ◈ Objetivo: desenvolver projetos cada vez mais completos e funcionais.
+Sou estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia, programação e criação de experiências digitais.
+
+Atuo no universo **Full Stack**, com uma preferência especial pelo Front-end: gosto de transformar ideias em interfaces modernas, intuitivas e visualmente marcantes.
+
+Atualmente, estou desenvolvendo minhas habilidades com HTML, CSS, JavaScript e Python, além de aprender PHP durante o curso.
+
+- 🎨 Explorando interfaces modernas e responsivas.
+- 💻 Desenvolvendo projetos para colocar conhecimentos em prática.
+- ⚡ Estudando novas tecnologias e boas práticas.
+- 🚀 Construindo minha jornada no desenvolvimento de software.
 
 <br clear="right"/>
 
-⸻
+---
 
-03 — TECH STACK
+## `02 // TECH STACK`
 
 <div align="center">
 
-CORE TECHNOLOGIES
+### FRONT-END
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
-</a>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-Visuals-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Interactivity-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/></a>
 
-DEVELOPMENT ENVIRONMENT
+### BACK-END & PROGRAMMING
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Development tools"/>
-</a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="55" alt="PHP"/></a>
+
+### TOOLS & ENVIRONMENT
+
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/></a>
+
 </div>
 
-As tecnologias e ferramentas exibidas representam meu ambiente de desenvolvimento atual. Novas ferramentas serão adicionadas conforme minha evolução.
+> **Current learning:** PHP · lógica de programação · desenvolvimento web · boas práticas de código.
 
-⸻
+---
 
-04 — TOOLKIT
-
-Tool	Purpose
-VS Code	Edição e desenvolvimento de código
-Git	Controle de versão
-GitHub	Repositórios e colaboração
-DevTools	Inspeção e depuração de interfaces
-MDN Web Docs	Documentação e aprendizado
+## `03 // DEVELOPMENT ENVIRONMENT`
 
 <div align="center">
-<img src="https://img.shields.io/badge/EDITOR-VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/VERSION%20CONTROL-GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/PLATFORM-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+| FERRAMENTA | UTILIZAÇÃO |
+|:---|:---|
+| `VS Code` | Ambiente de desenvolvimento |
+| `Git & GitHub` | Versionamento e portfólio |
+| `HTML & CSS` | Estrutura e estilização de interfaces |
+| `JavaScript` | Interatividade e lógica no Front-end |
+| `Python` | Programação e resolução de problemas |
+| `PHP` | Aprendizado de desenvolvimento Back-end |
+| `Figma` | Exploração de design e interfaces |
+
 </div>
 
-⸻
+---
 
-05 — PROJECT DATABASE
-
-Repositórios selecionados: projetos para explorar, experimentar e evoluir.
+## `04 // FEATURED PROJECTS`
 
 <div align="center">
+
 <a href="https://github.com/pietraalvesdev?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=pietraalvesdev&repo=SEU-REPOSITORIO-1&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=8A2BE2&border_color=172554"
-    alt="Projeto em destaque 1"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pietraalvesdev&repo=SEU_PROJETO_1&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=EAFBFF" alt="Projeto em destaque 1"/>
 </a>
 <a href="https://github.com/pietraalvesdev?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=pietraalvesdev&repo=SEU-REPOSITORIO-2&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=8A2BE2&border_color=172554"
-    alt="Projeto em destaque 2"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pietraalvesdev&repo=SEU_PROJETO_2&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=EAFBFF" alt="Projeto em destaque 2"/>
 </a>
-</div>
-
-// PROJECT PIPELINE
-
-* WEB INTERFACE — experiências web com HTML e CSS.
-* INTERACTIVE WEB — funcionalidades desenvolvidas com JavaScript.
-* NEXT GENERATION UI — experimentos com layouts, animações e responsividade.
-
-Os cards acima são modelos. Substitua SEU-REPOSITORIO-1 e SEU-REPOSITORIO-2 pelos nomes de dois repositórios públicos reais para exibir seus projetos.
-
-⸻
-
-06 — CURRENT OBJECTIVES
-
-pietra@cyber-lab:~$ ./load_objectives.sh
-[01] >> Strengthen HTML5 semantic structure
-[02] >> Master responsive CSS layouts
-[03] >> Improve JavaScript logic and DOM manipulation
-[04] >> Build interactive web applications
-[05] >> Practice Git and GitHub workflows
-[06] >> Develop a professional project portfolio
-pietra@cyber-lab:~$ status --learning
-> MISSION: CONTINUOUS EVOLUTION
-> MODE: BUILD / TEST / LEARN / REPEAT
-> RESULT: IN PROGRESS_
-█
-
-⸻
-
-07 — GITHUB ANALYTICS
-
-<div align="center">
-
-CONTRIBUTION OVERVIEW
-
-STREAK PROTOCOL
-
-ACTIVITY TIMELINE
 
 </div>
 
-⸻
+### ◈ Project showcase
 
-08 — ACHIEVEMENT MATRIX
+<table>
+<tr>
+<td width="50%">
+
+### ✦ Interface Lab
+
+**Categoria:** Front-end
+
+Experimentos com interfaces modernas, layouts responsivos e componentes visuais.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### ✦ Logic Core
+
+**Categoria:** Programming
+
+Projetos para praticar lógica, algoritmos e resolução de problemas.
+
+`Python` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✦ Web Systems
+
+**Categoria:** Full Stack
+
+Estudos de aplicações web e integração entre interfaces e funcionalidades Back-end.
+
+`HTML` `CSS` `PHP`
+
+</td>
+<td width="50%">
+
+### ✦ Creative Experiments
+
+**Categoria:** UI / UX
+
+Exploração de conceitos visuais, efeitos, animações e experiências digitais.
+
+`CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+**[⌘ EXPLORAR TODOS OS PROJETOS](https://github.com/pietraalvesdev?tab=repositories)**
+
 </div>
 
-⸻
+> Os cards acima são conceitos de apresentação, não projetos publicados confirmados. Substitua-os pelos seus repositórios reais para exibir trabalhos existentes.
 
-09 — SNAKE PROTOCOL
+---
+
+## `05 // CURRENT OBJECTIVES`
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:10243A&height=3" alt="Divisor ciano"/>
+
 </div>
 
-Setup required: a animação da cobrinha precisa de uma GitHub Action para gerar o SVG. Crie o workflow descrito na documentação do projeto Platane/snk e configure a publicação do arquivo na branch output. Sem essa configuração, a imagem não será exibida.
+```bash
+┌──[ PIETRA@DEV-STATION ]──[ ~/objectives ]
+│
+├─ $ cat current_mission.txt
+│
+├─ [IN PROGRESS] Aprimorar HTML semântico e CSS
+├─ [IN PROGRESS] Desenvolver interfaces responsivas
+├─ [IN PROGRESS] Evoluir em JavaScript
+├─ [IN PROGRESS] Praticar Python e lógica de programação
+├─ [LEARNING]    Aprender PHP no curso
+├─ [EXPLORING]   Boas práticas de Git e GitHub
+│
+├─ $ echo "Every project is a new level."
+│
+└──> MISSION: BUILD SOMETHING EXTRAORDINARY_
+```
 
-⸻
+---
 
-10 — CONNECT TO MY NETWORK
+## `06 // GITHUB ANALYTICS`
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pietraalvesdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8A2BE2&text_color=EAFBFF&ring_color=00E5FF&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietraalvesdev&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=EAFBFF&langs_count=8" alt="Linguagens mais utilizadas"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=pietraalvesdev&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF&sideLabels=EAFBFF&dates=7B8CA5" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pietraalvesdev&bg_color=050816&color=00E5FF&line=8A2BE2&point=00E5FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade do GitHub"/>
+
+</div>
+
+---
+
+## `07 // GITHUB TROPHIES`
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=pietraalvesdev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## `08 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/pietraalvesdev/pietraalvesdev/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo as contribuições"/>
+</picture>
+
+</div>
+
+---
+
+## `09 // CONNECT WITH ME`
+
+<div align="center">
+
 <a href="https://github.com/pietraalvesdev">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-Vamos construir algo incrível?
+<br/><br/>
 
-Estou sempre em busca de aprender, criar e evoluir no mundo da tecnologia.
+*“Code is not just instructions. It's the architecture of an idea.”*
 
 </div>
 
-Personalize o link do LinkedIn com o endereço do seu perfil profissional.
-
-⸻
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:111B3D,100:050816&height=120&section=footer" width="100%" alt="Neon footer"/>
 
-SYSTEM SHUTDOWN // NOT REALLY
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1F33,100:050816&height=120&section=footer" alt="Rodapé futurista"/>
 
-DESIGNED WITH CURIOSITY · POWERED BY CODE · BUILT FOR THE FUTURE
-
-<img src="https://img.shields.io/badge/KEEP-CREATING-050816?style=flat-square&labelColor=050816&color=00F5FF" alt="Keep creating"/>
-
-© Pietra Alves · Every line of code is another step forward.
+<sub>DESIGNED & BUILT BY PIETRA ALVES</sub>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=pietraalvesdev&style=flat-square&color=00F5FF&label=PROFILE+SCANS" alt="Profile views"/>
+
+<sub>© 2026 · LEARN CONSTANTLY · BUILD FEARLESSLY · THINK BEYOND</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWERED_BY-CURIOSITY-050816?style=flat-square&labelColor=050816&color=00E5FF" alt="Powered by curiosity"/>
+
 </div>
-```
